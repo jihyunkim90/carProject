@@ -21,7 +21,7 @@
 	System.out.println("데이터베이스 연결 성공");
 	}catch(SQLException e){
 	e.printStackTrace();
-	System.out.println("데이터베이스 연결 실패");
+	System.out.println("데이터베이스 연결 실패");System.out.println("데이터베이스 연결 실패");
 	}
 	 %>
 </body>
